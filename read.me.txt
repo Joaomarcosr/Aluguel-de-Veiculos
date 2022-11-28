@@ -1,0 +1,6 @@
+Código desenvolvido para fazer calculo de aluguel
+de veículos.
+Sera setado um valor diferente por km rodado dependendo de cada
+veiculo, se for carro R$2.15 se for moto R$0.15 P/km.
+No final sera somando as diárias mais o total de km rodados, Caso escolha
+um veículo diferente de carro ou moto, mostrara um erro na tela.
